@@ -1,2 +1,4 @@
 # Daily-Checklist
-Daily safety checklist app, sample data only".
+A daily safety checklist app. 
+Built while learning DevOps. 
+Sample data only."
